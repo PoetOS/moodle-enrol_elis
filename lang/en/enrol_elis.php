@@ -32,3 +32,5 @@ $string['elis:config'] = 'Configure ELIS PM enrolment instances';
 $string['elis:unenrol'] = 'Unenrol users who were enrolled via the ELIS PM class instance';
 $string['unenrol_from_course_catalog'] = 'Allow unenrolments from ELIS Widgets';
 $string['unenrol_from_course_catalog_desc'] = 'If this is enabled, users will be allowed to self-unenrol via the ELIS Enrolment Widgets, but only if they have no grade data in the class.';
+
+$string['privacy:metadata'] = 'The ELIS program manager enrolments plugin does not store any personal data.';
